@@ -11,3 +11,7 @@
 .filter-active {
   text-decoration: underline;
 }
+
+.completed-todo {
+  text-decoration: line-through;
+}
