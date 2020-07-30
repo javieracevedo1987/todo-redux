@@ -1,0 +1,13 @@
+.toolbar-todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.toolbar-todo > span {
+  cursor: pointer;
+}
+
+.filter-active {
+  text-decoration: underline;
+}
